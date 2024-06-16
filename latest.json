@@ -16,8 +16,8 @@
       "url": "https://github.com/yakupars/timely-things-release/releases/download/0.0.0/timely-things.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR05ZZ0tlOTJza3E3YVhacjRkNTYvOEZ2NjdNVU55SDdBUEhoQzdDbUJTbE85WUpBOERoajhIdTlWNVRhNFVRUGd6MEU0VTJHajJtaER3R0RxYy9ncU5KTmt5Y0VaaWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4NDkwODI5CWZpbGU6dGltZWx5LXRoaW5ncy5hcHAudGFyLmd6CjdwM0hEcUI1VnRXQ1kvVjlXYXpWOEtZOURBdDI3bVZoOURBcyt3OEVDeWltNXRjWDJDTUV5a2x4UVBjeHk0NHBOZGxiLzU3c21tZEJvNnc4bkYzTUJBPT0K",
-      "url": "https://github.com/yakupars/timely-things-release/releases/download/0.0.0/timely-things.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR05ZZ0tlOTJza293bnVScDhsQk1GMlZlWVpFcDRNOFo5UmNQakFHbTl1cnBLVHNSRVF5OUltd09oem1ac0RIWWNtMExtMXh6Y2xaQ1VrTHpyaWQwQngrOEpxTzg1c2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4NTU1MzMzCWZpbGU6dGltZWx5LXRoaW5nc18wLjAuNl94NjQtc2V0dXAubnNpcy56aXAKL0NWS1NTYUYvYXhlb21tdGFPVFlxaXY4K0VReTdwcmRHQ2R2Z0dOU2Q0aGVzN2F4L1pHM2Z3dUdPWHFaYXQ3Y1ZUU0IydGFQbUxVcmVaZndWUjFORHc9PQo",
+      "url": "https://github.com/yakupars/timely-things-release/releases/download/0.0.6/timely-things_0.0.6_x64-setup.nsis.zip"
     }
   }
 }
