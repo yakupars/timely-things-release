@@ -1,5 +1,5 @@
 {
-  "version": "0.0.4",
+  "version": "0.0.5",
   "notes": "Setting up release process",
   "pub_date": "2024-06-16T00:11:00Z",
   "platforms": {
@@ -8,8 +8,8 @@
       "url": "https://github.com/yakupars/timely-things-release/releases/download/0.0.0/timely-things.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR05ZZ0tlOTJza2laZ0tqN2swTlBJTDd3YVBLUTUwWElSMnVEZjNpOWZSZ0RtRVdxUWdLTjRIMUdkbmMwdXZsNno1TFZXWE4rMEF6aEZHYjAxWlBaRXdTRW9BMlFJRVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4NTQzMjcxCWZpbGU6dGltZWx5LXRoaW5ncy5hcHAudGFyLmd6CkhkcGdkZUp5MndaMU9MeUxyWnNaMDBiMmlkcVNhS3hSQmRWYzZVc0VZUlkwbWs3blIyekJ5R0tuZnRONzQ5LyswUCtqbExCbG5tWVQ3VXYyanluOERRPT0K",
-      "url": "https://github.com/yakupars/timely-things-release/releases/download/0.0.4/timely-things.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR05ZZ0tlOTJza2tDS0lMcGF2N1RVV1RzTXRTOXkrU2ZnQ1dDWVRzLzZwaFFnVkRCanlpSWx3N1EyM216aWhtNlFFY25zOS9xTkd0ZWxkR0RkM1FwTkZnbUVXRzBxWXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4NTQzODM0CWZpbGU6dGltZWx5LXRoaW5ncy5hcHAudGFyLmd6CmNKU2g4bys0dWFxOFZhbE5nV29KVWk4enJrNlh0UnJTbUVrVkpwQTZsNGNvb2ZRYk9lbTFwb2J5QmtUUlpPMWVJVHFrSS9rRFIwbm5ac0Z1dnl3VENRPT0K",
+      "url": "https://github.com/yakupars/timely-things-release/releases/download/0.0.5/timely-things.app.tar.gz"
     },
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR05ZZ0tlOTJza3E3YVhacjRkNTYvOEZ2NjdNVU55SDdBUEhoQzdDbUJTbE85WUpBOERoajhIdTlWNVRhNFVRUGd6MEU0VTJHajJtaER3R0RxYy9ncU5KTmt5Y0VaaWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4NDkwODI5CWZpbGU6dGltZWx5LXRoaW5ncy5hcHAudGFyLmd6CjdwM0hEcUI1VnRXQ1kvVjlXYXpWOEtZOURBdDI3bVZoOURBcyt3OEVDeWltNXRjWDJDTUV5a2x4UVBjeHk0NHBOZGxiLzU3c21tZEJvNnc4bkYzTUJBPT0K",
