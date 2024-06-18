@@ -1,15 +1,15 @@
 {
-  "version": "0.0.8",
-  "notes": "Setting up release process",
-  "pub_date": "2024-06-16T00:11:00Z",
+  "version": "0.0.9",
+  "notes": "Setting up local data store",
+  "pub_date": "2024-06-18T22:08:00Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR05ZZ0tlOTJza3E3YVhacjRkNTYvOEZ2NjdNVU55SDdBUEhoQzdDbUJTbE85WUpBOERoajhIdTlWNVRhNFVRUGd6MEU0VTJHajJtaER3R0RxYy9ncU5KTmt5Y0VaaWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4NDkwODI5CWZpbGU6dGltZWx5LXRoaW5ncy5hcHAudGFyLmd6CjdwM0hEcUI1VnRXQ1kvVjlXYXpWOEtZOURBdDI3bVZoOURBcyt3OEVDeWltNXRjWDJDTUV5a2x4UVBjeHk0NHBOZGxiLzU3c21tZEJvNnc4bkYzTUJBPT0K",
       "url": "https://github.com/yakupars/timely-things-release/releases/download/0.0.0/timely-things.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR05ZZ0tlOTJza2lZWWhSTFhUdk41aURtTjZZQmExVWdKdDZ6bTcvRmc0TlFvV29ZNHloWkovbFh5M0VCMFcvSDhWaGl2TUZYRTVRY3JXQXpET0tVNEtCaGplNlNFQXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4NjYyMDA1CWZpbGU6dGltZWx5LXRoaW5ncy5hcHAudGFyLmd6CkpQTkFkalpNWHVHelFObjJuQTloT0lqN2N2d0JEZWo5WDNJVHNOZ3hnN3pob0NPbUJyQ3pES1pYbHhBSGkyNStESENUYkt3L1BRT3NlTVNHMHJST0F3PT0K",
-      "url": "https://github.com/yakupars/timely-things-release/releases/download/0.0.8/timely-things.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR05ZZ0tlOTJza250S0ZmQmZIVWxNdDZSN2hEd25yVWJFTHVFVlM1ZlFkWTNaeS9zL1pVd2xrQ3lmNU9KOHh4QnZqYW5oWXdFcTJMWFFsOVNkQXcvYTQrQmtqRmhpN2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4NzQxMzI3CWZpbGU6VGltZWx5IFRoaW5ncy5hcHAudGFyLmd6Cjk2YVBYM1NLWmxKQnJob2lBNHRFOVNybk5kWmlOeml6M3lWMmJNVlhjZDhSbTEybmR0bTJwS2FpdGd6RFhUdVZ3aDZXTW04Y2tyb1pWUGdIM2N1QUFBPT0K",
+      "url": "https://github.com/yakupars/timely-things-release/releases/download/0.0.9/timely-things.app.tar.gz"
     },
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR05ZZ0tlOTJza3E3YVhacjRkNTYvOEZ2NjdNVU55SDdBUEhoQzdDbUJTbE85WUpBOERoajhIdTlWNVRhNFVRUGd6MEU0VTJHajJtaER3R0RxYy9ncU5KTmt5Y0VaaWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4NDkwODI5CWZpbGU6dGltZWx5LXRoaW5ncy5hcHAudGFyLmd6CjdwM0hEcUI1VnRXQ1kvVjlXYXpWOEtZOURBdDI3bVZoOURBcyt3OEVDeWltNXRjWDJDTUV5a2x4UVBjeHk0NHBOZGxiLzU3c21tZEJvNnc4bkYzTUJBPT0K",
